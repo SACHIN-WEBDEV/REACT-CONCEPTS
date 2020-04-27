@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/css/main.346108ef.chunk.css",
+    "main.js": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/main.d3cfc951.chunk.js",
+    "main.js.map": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/main.d3cfc951.chunk.js.map",
+    "runtime-main.js": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/runtime-main.728b6c09.js",
+    "runtime-main.js.map": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/runtime-main.728b6c09.js.map",
+    "static/css/2.33f426b8.chunk.css": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/css/2.33f426b8.chunk.css",
+    "static/js/2.4802b17b.chunk.js": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/2.4802b17b.chunk.js",
+    "static/js/2.4802b17b.chunk.js.map": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/2.4802b17b.chunk.js.map",
+    "index.html": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/index.html",
+    "precache-manifest.cc48e160ca46a17f787cdd48c47bf257.js": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/precache-manifest.cc48e160ca46a17f787cdd48c47bf257.js",
+    "service-worker.js": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/service-worker.js",
+    "static/css/2.33f426b8.chunk.css.map": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/css/2.33f426b8.chunk.css.map",
+    "static/css/main.346108ef.chunk.css.map": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/css/main.346108ef.chunk.css.map",
+    "static/js/2.4802b17b.chunk.js.LICENSE.txt": "/SACHIN-WEBDEV/REACT-CONCEPTS.git/static/js/2.4802b17b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728b6c09.js",
+    "static/css/2.33f426b8.chunk.css",
+    "static/js/2.4802b17b.chunk.js",
+    "static/css/main.346108ef.chunk.css",
+    "static/js/main.d3cfc951.chunk.js"
+  ]
+}
